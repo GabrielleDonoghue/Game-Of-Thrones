@@ -1,6 +1,7 @@
 body {
     background-image: url("https://wallpapermemory.com/uploads/220/game-of-thrones-background-1080p-383441.jpg");}
-
+    background-size: cover;
+    background-attachment: fixed;
 .sidenav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
     width: 160px; /* Set the width of the sidebar */
@@ -27,5 +28,4 @@ body {
     color: #b46f6f;
     }
 div.info{text-align: center;
-         position: absolute;
-         top: 50%;}
+         }
