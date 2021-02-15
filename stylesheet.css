@@ -27,4 +27,7 @@ body {
 .sidenav a:hover {
     color: #b46f6f;
     }
-div.info{text-align: center;}
+div.info{text-align: center;
+         background-color: rgba(70, 0, 0, 0.637);}
+div.news{text-align: center;
+         background-color: rgba(70, 0, 0, 0.637);}
