@@ -29,7 +29,9 @@ body {
     }
 div.info{text-align: center;
          background-color: rgba(70, 0, 0, 0.637);
-         background-size: 300px 100px;}
+         background-size: 300px 100px;
+         font-size: medium;}
 div.news{text-align: center;
          background-color: rgba(70, 0, 0, 0.637);
-         background-size: 300px 100px;}
+         background-size: 300px 100px;
+         font-size: medium;}
