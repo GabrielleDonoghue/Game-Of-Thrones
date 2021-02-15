@@ -28,6 +28,8 @@ body {
     color: #b46f6f;
     }
 div.info{text-align: center;
-         background-color: rgba(70, 0, 0, 0.637);}
+         background-color: rgba(70, 0, 0, 0.637);
+         background-size: 300px 100px;}
 div.news{text-align: center;
-         background-color: rgba(70, 0, 0, 0.637);}
+         background-color: rgba(70, 0, 0, 0.637);
+         background-size: 300px 100px;}
