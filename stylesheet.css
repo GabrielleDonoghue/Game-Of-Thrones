@@ -18,7 +18,7 @@ body {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: #460e0e;
     display: block;
     }
       
@@ -27,8 +27,8 @@ body {
     }
 div.info{text-align: center;
          font-size: 23px;}
-p3.houses{text-align: center;}
-p4.houses{text-align: center;}
+h2.houses{font-size: 25px;}
+h3.houses{font-size: 25px;}
 div.news{text-align: center;
          font-size: 23px;}
 div.images{text-align: center;
